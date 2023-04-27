@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662941847835",
+    "project_id": "fir-2risley",
+    "storage_bucket": "fir-2risley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662941847835:android:6ca00478386702c4e903be",
+        "android_client_info": {
+          "package_name": "com.example.firebase2risley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662941847835-ahhai14qkpqg2um8rmrvtj2rij8odh52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbA2SEET-9varho9h4MsDkcZuJuB1udSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662941847835-ahhai14qkpqg2um8rmrvtj2rij8odh52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
